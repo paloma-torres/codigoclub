@@ -7,6 +7,8 @@ print(numbers,fruits)
 #get a value of a list
 print(fruits[0])
 
+#hola
+
 #longitud
 print(len(fruits))
 
